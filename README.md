@@ -1,0 +1,2 @@
+# SpringMVC_FileUpload
+基于Java配置的Spring MVC文件上传demo。使用StandardServletMultipartResolver作为解析器，jsp为视图。为了简介起见，项目对视图并没有美化，但是功能完整简介明了
